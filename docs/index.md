@@ -1,17 +1,4 @@
-# Welcome to MkDocs
+# Python Web 面试指南
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+针对 Python web 开发者的一份面试指南。
+包括面试流程、编程基础、编程范式、数据库和网络编程、系统设计等内容，仅供参考。

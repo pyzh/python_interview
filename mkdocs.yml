@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Python web 面试指南
+theme: readthedocs
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+  - mdx_math:
+      enable_dollar_delimiter: True  #for use of inline $..$
+
+nav:
+    - 简介: 'index.md'
+    - 面试流程介绍:
+      - 面试流程及环节: 'interview/interview.md'
